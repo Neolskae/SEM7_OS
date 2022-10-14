@@ -1,0 +1,15 @@
+Student ID    : 20SMR04988 
+Student Name  : Lee Noel Lian 
+Academic Year : 2022 
+Semester      : 1 
+
+=====================================================================================================
+CourseCode:         Marks:          Grade:          Remarks:        Grade Points:      Quality Point: 
+=====================================================================================================
+BACS2093            99              A               Excellent       4                  12            
+BACS3033            77              A-              Excellent       3.75               11.25         
+BACS2022            44              F               Failed          0                  0             
+BACS1011            77              A-              Excellent       3.75               18.75         
+
+                                                                 Total Quality Point:  42.00
+                                                                                 GPA:  2.88

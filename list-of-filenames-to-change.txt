@@ -1,0 +1,1 @@
+addNewCourse.sh addNewStudent.sh gradeStudent1.sh gradeStudent2.sh mainMenu.sh searchCourse.sh searchStudent.sh

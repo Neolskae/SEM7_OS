@@ -1,0 +1,9 @@
+BACS3033:Social and Professional Issues:3:Offer to Bachelor Year 3
+BMIT2164:Computer Networks:4:Taught by Dr.Christopher
+BACS2022:Probability and Statistic:3:Offer to Bachelor Year 3
+BACS1011:Entrepreneurship:5:Teach student about business
+BACS9999:Programming:3:Good
+AAA111:a:a:a
+BACS2093:Operating System:3:Teach by Mr.Daniel
+4:4:4:4
+a:a:3:a
